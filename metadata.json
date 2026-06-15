@@ -1,0 +1,6 @@
+{
+  "name": "Speed",
+  "description": "Complete flagship-grade performance and display refresh rate control utility by Mehraann.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
